@@ -74,8 +74,11 @@ You can test that it works by running it with the command below:
 deno run --allow-net main.ts
 ```
 
-Your server should be viewable at [localhost:8000](http://localhost:8000). Now
-let's run this code on the edge with Deno Deploy!
+Your server should be viewable at [localhost:8000](http://localhost:8000). 
+For all you programming newbies, 
+you must manually open https://localhost:8000 in a browser. 
+
+Now let's run this code on the edge with Deno Deploy!
 
 ## Deploy your project
 
